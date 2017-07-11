@@ -1,1 +1,1 @@
-My solution to course labs:
+My solution to course labs
